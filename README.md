@@ -16,3 +16,9 @@
 - [Foodora Clone](link) – Matleveransapp (på is just nu, ej färdig)  
 - [SalesAdventureGame](link) – C#-spel  
 - [Portfolio](link) – Personlig portfolio
+
+## 📫 Kontakt
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khosrat%20A-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khosrat-abobakri/)
+[![GitHub](https://img.shields.io/badge/GitHub-KosBow-black?style=for-the-badge&logo=github)](https://github.com/KosBow)
+[![Email](https://img.shields.io/badge/Email-Khosrat.Abobakri%40hotmail.com-red?style=for-the-badge&logo=gmail)](mailto:Khosrat.Abobakri@hotmail.com)
