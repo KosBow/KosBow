@@ -12,10 +12,10 @@
 - Övrigt: GitHub, Azure, Swagger, WCAG
 
 ## 📌 Utvalda projekt
-- [ZerBarberShop](link) – Bokningssystem med React + .NET Core  
-- [Foodora Clone](link) – Matleveransapp (på is just nu, ej färdig)  
-- [SalesAdventureGame](link) – C#-spel  
-- [Portfolio](link) – Personlig portfolio
+- [ZerBarberShop](https://github.com/KosBow/ZerBarberShop) – Bokningssystem med React + .NET Core  
+- [Foodora Clone](https://github.com/KosBow/FoodByZ) – Matleveransapp (på is just nu, ej färdig)  
+- [SalesAdventureGame](https://github.com/KosBow/SalesAdventureGame) – C#-spel  
+- [Portfolio](https://github.com/KosBow/Kos-portfolio) – Personlig portfolio
 
 ## 📫 Kontakt
 
